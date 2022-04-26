@@ -12,7 +12,7 @@ const ServicesList = () => {
                 <ServiceCard>
                     <ServicesListText>
                         <GucciDescTitle>
-                            Стандартная чистка ✣ <HighlightedText>400₽</HighlightedText>
+                            Стандартная чистка ✣ <HighlightedText>500₽</HighlightedText>
                         </GucciDescTitle>
                         <br />
                         <GucciDesc>
@@ -61,7 +61,7 @@ const ServicesList = () => {
                 <ServiceCard>
                     <ServicesListText>
                         <GucciDescTitle>
-                            Окрашивание ✣ <HighlightedText>1000₽</HighlightedText>
+                            Окрашивание ✣ <HighlightedText>1200₽</HighlightedText>
                         </GucciDescTitle>
                         <br />
                         <GucciDesc>
